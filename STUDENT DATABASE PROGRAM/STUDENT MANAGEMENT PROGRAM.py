@@ -22,7 +22,7 @@ student_database = 'students.csv'
 
 def display_menu():
     print("--------------------------------------")
-    print(" Welcome to Student Management System")
+    print(" Welcome to Student Data Management System")
     print("---------------------------------------")
     print("1. Add New Student")
     print("2. View Students")
